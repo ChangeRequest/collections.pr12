@@ -1,4 +1,4 @@
-Collections. Practice Task 1
+Collections. Practice Task 2
 ===============
 1\. List Wrapper
 ---------------
